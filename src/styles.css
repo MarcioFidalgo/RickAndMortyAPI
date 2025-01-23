@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif;
+  background-color: rgb(89, 89, 89);
+}
+
+#ativo{
+  background-color: rgb(125, 196, 240);
+  width: 25px;
+  height: 25px;
+  
+}
+
+.imagem{
+  text-decoration: none;
+  position: relative;
+  width: 391.6px;
+  height: 391.6px;
+  border: 1px solid green;
+  background-color: rgb(38, 38, 38);
+}
+
+#personagemId{
+ height: 26px;
+}
+
+#btn-go{
+  height: 30px;
+}
+
+#base1{
+padding-top: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+/* border: 1px solid red; */
+}
+
+h2{
+  
+}
+
+input{
+  border: solid black;
+  background-color: black;
+  color: rgb(0, 187, 0);
+}
+
+button{
+  background-color: lightgreen;
+  margin-left: 3px;
+}
+
