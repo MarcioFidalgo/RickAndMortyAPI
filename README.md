@@ -1,2 +1,2 @@
 # RickAndMortyAPI
-Created with CodeSandbox
+Consumo básico de uma API livre do Rick and Morty.
